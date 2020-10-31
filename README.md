@@ -1,9 +1,8 @@
-<h1 align="center">Hola 👋, Soy Kevin</h1>
-<h2 align="center"> 🐺 </h2>
+<h1 align="center">Hola 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k3v1nnnn" alt="k3v1nnnn" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **Spring Framework**
+- 🌱 Actualmente estoy aprendiendo **Spring Framework**, **PHP**
 
 <p align="left">
 <h3 align="left">Conecta Conmigo:</h3>
